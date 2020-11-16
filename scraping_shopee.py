@@ -1,7 +1,6 @@
 #import modules
 import requests
 import numpy as np
-import csv
 
 
 #create headers if requests.get not found 404
